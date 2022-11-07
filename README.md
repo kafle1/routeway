@@ -1,6 +1,6 @@
 # Routeway
 ## Introduction
-Routeway is a project where we are trying to create an app about public transports of Nepal. For that we are collecting data of all the public transportation of Nepal, their routes, timings, fares, stations, and many more.
+Routeway is a project about public transports of Nepal. For that we are collecting data of all the public transportation of Nepal, their routes, timings, fares, stations, and many more.
 
 ## Contribution
 
