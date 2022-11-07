@@ -6,4 +6,5 @@ We are trying to gather data about all the public transportations of Nepal, thei
 
 Checkout our [Contribution.md](Contribution.md) file for contribution guidelines.
 
-Thanks for your contribution.
+Thanks for your contribution. 
+`Little drops make the mighty ocean`

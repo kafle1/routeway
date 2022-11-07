@@ -1,5 +1,28 @@
-[
-    {
-        
-    }
+[   
+  {
+    "routeName": "Macchegaun Express",
+    "startingStation": {
+      "location": "Pushpalal Buspark, Macchegaun, Kirtipur",
+      "coordinates": { "longitude": 27.664942, "latitude": 85.254251 }
+    },
+    "endingStation": {
+      "location": "Ratnapark",
+      "coordinates": { "longitude": 27.70055, "latitude": 85.313381 }
+    },
+    "vehicles": ["Bus"],
+    "stops": [
+      { "location": "Bhatkepati", "fare": 15 },
+      { "location": "Kirtipur", "fare": 20 },
+      { "location": "TU Gate", "fare": 25 },
+      { "location": "Balkhu", "fare": 30 },
+      { "location": "Kuleshwor", "fare": 30 },
+      { "location": "Kalimati", "fare": 35 },
+      { "location": "Teku", "fare": 35 },
+      { "location": "Tirpureshwor", "fare": 40 },
+      { "location": "Ratnapark", "fare": 40 }
+    ],
+    "district": ["Kathmandu"],
+    "vehiclesDuration": "30min",
+    "journeyDuration": "1hr 15min"
+  }
 ]
