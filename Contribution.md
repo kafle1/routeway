@@ -1,4 +1,13 @@
 ## Contribution Method
+- Fork this repository.
+- Clone your forked repository in your local machine.
+- Contribute.
+- Create commits with a clear message and push your code.
+- Open a Pull Request with a description about your contribution.
+- All done, we will merge your PR accordingly.
+- Don't forget to give a star to our repository ;)
+
+## Data format
 Head to `data.json` file inside `data` folder. Use the following format to contribute.
 
 `data.json` is an array of objects so create a new object inside `data.json` file and add your data in `JSON` format.
@@ -54,4 +63,5 @@ Make sure all the data types are in same format as given below.
 
 `journeyDuration` -> Time period taken to travel from `startingStation` to `endingStation`. (यात्रा अवधि / समय)
 
-Thanks for your contribution.
+
+**Thanks a lot your contribution.**

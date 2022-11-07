@@ -1,10 +1,10 @@
 # Routeway
 ## Introduction
-We are trying to gather data about all the public transportations of Nepal, their routes, timings, pricing, stations etc.
+Routeway is a complete data source about all the public transportations of Nepal, their routes, timings, pricing, stations and many more.
 
 ## Contribution
 
 Checkout our [Contribution.md](Contribution.md) file for contribution guidelines.
 
 Thanks for your contribution. 
-`Little drops make the mighty ocean`
+**Little drops make the mighty ocean**
