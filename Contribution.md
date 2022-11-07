@@ -25,7 +25,7 @@ Make sure all the data types are in same format as given below.
   },
   "endingStation": {
     "location": "Ratnapark",
-    "coordinates": {"latitude": 27.70055, "longitude":  85.313381 }
+    "coordinates": { "latitude": 27.70055, "longitude":  85.313381 }
   },
   "vehicles": ["Bus"],
   "stops": [
