@@ -21,11 +21,11 @@ Make sure all the data types are in same format as given below.
   "routeName": "Macchegaun Express",
   "startingStation": {
     "location": "Pushpalal Buspark, Macchegaun, Kirtipur",
-    "coordinates": { "longitude": 27.664942, "latitude": 85.254251 }
+    "coordinates": { "latitude": 27.664942, "longitude": 85.254251  }
   },
   "endingStation": {
     "location": "Ratnapark",
-    "coordinates": { "longitude": 27.70055, "latitude": 85.313381 }
+    "coordinates": {"latitude": 27.70055, "longitude":  85.313381 }
   },
   "vehicles": ["Bus"],
   "stops": [
