@@ -1,6 +1,6 @@
 # Routeway
 ## Introduction
-Routeway is a complete data source about all the public transportations of Nepal, their routes, timings, pricing, stations and many more.
+Routeway is a collection of data of all the public transportations of Nepal, their routes, timings, pricing, stations and many more.
 
 ## Contribution
 
