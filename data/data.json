@@ -46,7 +46,7 @@
       { "location": "Thasikhel Chowk", "fare": 30 },
       { "location": "Mahalaxmisthan Chowk", "fare": 35 },
       { "location": "Patan Hospital Bus Stop", "fare": 35 },
-      { "location": "Lagankhel Bus Park", "fare": 35 },
+      { "location": "Lagankhel Bus Park", "fare": 35 }
     ],
     "district": ["Kathmandu", "Lalitpur"],
     "vehiclesDuration": 0.2,
