@@ -21,11 +21,11 @@ Make sure all the data types are in same format as given below.
   "routeName": "Macchegaun Express",
   "startingStation": {
     "location": "Pushpalal Buspark, Macchegaun, Kirtipur",
-    "coordinates": { "longitude": 27.664942, "latitude": 85.254251 }
+    "coordinates": { "latitude": 27.664942, "longitude": 85.254251  }
   },
   "endingStation": {
     "location": "Ratnapark",
-    "coordinates": { "longitude": 27.70055, "latitude": 85.313381 }
+    "coordinates": { "latitude": 27.70055, "longitude":  85.313381 }
   },
   "vehicles": ["Bus"],
   "stops": [
@@ -40,7 +40,7 @@ Make sure all the data types are in same format as given below.
     { "location": "Ratnapark", "fare": 40 }
   ],
   "district": ["Kathmandu"],
-  "vehicleDuration": 0.5,
+  "vehicleDuration": 0.3,
   "journeyDuration": 1.15
 }
 
@@ -48,7 +48,7 @@ Make sure all the data types are in same format as given below.
 
 ## Units
 - `fare` is in Nepali Rupees `Rs.`.
-- `vehiclesDuration` & `journeyDuration` is in Hours Eg. 0.5 = 30 Minutes, 1.45 = 1 Hour and 45 Minutes
+- `vehiclesDuration` & `journeyDuration` is in Hours Eg. 0.3 = 30 Minutes, 1.45 = 1 Hour and 45 Minutes
 ## Guides
 
 `startingStation` -> Details about starting station. (गाडी छुट्ने ठाउँ)
